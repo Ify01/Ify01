@@ -29,6 +29,10 @@ Hello there! I'm Ifeanyi Ezeugwu, a devoted and skilled frontend developer who p
 
 <a href="https://github.com/Ify01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ify01&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Ify01/Ultimate-dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ify01&repo=Ultimate-dashboard&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ify01"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezeugwu Ifeanyi
 =======================================================================================================================================
 
-Frontend Developer
+UXUI design/research & Frontend Developer
 ------------------
 
 Hello there! I'm Ifeanyi Ezeugwu, a devoted and skilled frontend developer who places a high priority on building aesthetically pleasing and user-friendly online interfaces. I have three years of professional experience converting design ideas into pixel-perfect, responsive websites and web applications. I have worked on a variety of projects throughout my career, closely coordinating with designers, and back-end developers, to generate high-quality solutions that surpass customer expectations. Because of my proficiency with current frontend frameworks and libraries, I can create dynamic and interactive user interfaces quickly. In addition to my technical abilities, I have strong communication skills and work well in a team environment I like working in an agile environment where I can share my knowledge and ideas to support the team in achieving its objectives. I'd be happy to speak with you if you're searching for a frontend developer who can make your idea come to life and provide outstanding user experiences. Feel free to reach out, and let's create something fantastic together!"
